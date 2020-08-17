@@ -1,0 +1,7 @@
+.idea
+venv
+.vscode
+dist
+build
+__pycache__
+tivopy.spec
